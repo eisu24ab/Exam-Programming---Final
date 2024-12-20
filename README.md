@@ -1,5 +1,7 @@
 # Exam-Programming---Final
 
+Use the provided finance_data.csv, that already have many transactions provided, from the month of November 2024.
+
 Personal Finance Management System
 This is a Python-based personal finance management system that allows users to log, manage, and visualize their financial transactions. The system stores transactions in a local CSV file and provides functionalities like filtering by date range, generating summaries, and creating visualizations of income and expenses.
 
